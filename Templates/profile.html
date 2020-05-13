@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ru">
+{% include 'base.html' %}
+
+
+<head>
+  {% block head %}
+  {% endblock %}
+</head>
+
+<body>
+  {% block header %}
+  {% endblock %}
+
+  <main class="container mt-3">
+    <div class="card my-4 mx-auto">
+      <div class="card-body m-2 m-md-4">
+        <article class="row">
+          <div class="col-5"><img src="{{teacher_info.picture}}" class="img-fluid" alt=""></div>
+          <div class="col-7">
+
+            <section class="teacher=info">
+
+              <h1 class="h2">{{teacher_info.name}}</h1>
+              <p>
+                {% for goals in teacher_info.goals %}
+                    <span class="badge badge-secondary mr-2">{{goals_data[goals]}} </span>
+                {% endfor %}
+                Рейтинг: {{teacher_info.rating}} Ставка: {{teacher_info.price}} / час
+              </p>
+              <p>{{teacher_info.about}}</p>
+
+            </section>
+
+            <section class="available">
+              <h4 class="mb-4 mt-5">Записаться на пробный урок</h4>
+
+              <!-- Выводим дни -->
+              {% for key_day,value_day in teacher_free.items() %}
+                  <!-- Переводим на русский язык -->
+                  <h6 class="mt-4">{{days[key_day]}}</h6>
+                  {% set count = namespace(foo=True) %}
+
+                  <!-- Выводим уроки в каждом дне -->
+                  {% for key,value in value_day.items() %}
+                      {% if value != False %}
+                          <a href="/booking/{{id_teacher}}/{{key_day}}/{{key|truncate(3)}}" class="btn btn-outline-success  md-2">{{key}}</a>
+                          {% set count.foo = false %}
+                      {% endif %}
+                  {% endfor %}
+                  {% if count.foo %} Нет свободных уроков {% endif %}
+              {% endfor %}
+
+
+            </section>
+
+          </div>
+        </article>
+      </div>
+
+    </div>
+  </main>
+  {% block scripts %}
+  {% endblock %}
+</body>
+
+</html>

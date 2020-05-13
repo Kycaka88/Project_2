@@ -1,0 +1,44 @@
+[
+    {
+        "clientName": "adad",
+        "clientPhone": "dadad",
+        "goal": "learn",
+        "time": "5-7"
+    },
+    {
+        "clientName": "ada",
+        "clientPhone": "adad",
+        "goal": "learn",
+        "time": "5-7"
+    },
+    {
+        "clientName": "1313",
+        "clientPhone": "adad",
+        "goal": "travel",
+        "time": "5-7 часов в неделю"
+    },
+    {
+        "clientName": "1313",
+        "clientPhone": "adad",
+        "goal": "travel",
+        "time": "5-7 часов в неделю"
+    },
+    {
+        "clientName": "Дима",
+        "clientPhone": "131313",
+        "goal": "travel",
+        "time": "5-7 часов в неделю"
+    },
+    {
+        "clientName": "adad",
+        "clientPhone": "dada",
+        "goal": "travel",
+        "time": "5-7 часов в неделю"
+    },
+    {
+        "clientName": "da1313",
+        "clientPhone": "13131",
+        "goal": "learn",
+        "time": "5-7 часов в неделю"
+    }
+]
