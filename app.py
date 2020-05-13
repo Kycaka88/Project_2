@@ -84,7 +84,7 @@ def render_request_done():
       with open("request.json", "r") as f:
          data = json.load(f)
       data.append(new_request)
-      with open("request.json", "w") as f:
+      with open("request.json", "w", encoding="utf-8") as f:
          json.dump(data, f, indent=4, ensure_ascii=False)
       return render_template('request_done.html', new_request=new_request)
    else:
@@ -120,7 +120,7 @@ def render_booking_done():
       with open("booking.json", "r") as f:
          data = json.load(f)
       data.append(new_request)
-      with open("booking.json", "w") as f:
+      with open("booking.json", "w", encoding="utf-8") as f:
          json.dump(data, f, indent=4, ensure_ascii=False)
       return render_template('booking_done.html', new_request=new_request)
    else:

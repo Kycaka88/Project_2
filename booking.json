@@ -5,7 +5,7 @@
         "clientTeacher": "1",
         "clientTime": "22:00",
         "clientWeekday": "mon",
-        "clientWeekday_rus": "Понедельник"
+        "clientWeekday_rus": "РџРѕРЅРµРґРµР»СЊРЅРёРє"
     },
     {
         "clientName": "adad13131",
@@ -13,7 +13,7 @@
         "clientTeacher": "1",
         "clientTime": "22:00",
         "clientWeekday": "mon",
-        "clientWeekday_rus": "Понедельник"
+        "clientWeekday_rus": "РџРѕРЅРµРґРµР»СЊРЅРёРє"
     },
     {
         "clientName": "adad13131131313",
@@ -21,7 +21,7 @@
         "clientTeacher": "1",
         "clientTime": "22:00",
         "clientWeekday": "mon",
-        "clientWeekday_rus": "Понедельник"
+        "clientWeekday_rus": "РџРѕРЅРµРґРµР»СЊРЅРёРє"
     },
     {
         "clientName": "adadad",
@@ -29,7 +29,7 @@
         "clientTeacher": "2",
         "clientTime": "22:00",
         "clientWeekday": "tue",
-        "clientWeekday_rus": "Вторник"
+        "clientWeekday_rus": "Р’С‚РѕСЂРЅРёРє"
     },
     {
         "clientName": "adad",
@@ -37,15 +37,15 @@
         "clientTeacher": "2",
         "clientTime": "22:00",
         "clientWeekday": "tue",
-        "clientWeekday_rus": "Вторник"
+        "clientWeekday_rus": "Р’С‚РѕСЂРЅРёРє"
     },
     {
-        "clientName": "фвфвфвф",
-        "clientPhone": "вфвфвфв",
+        "clientName": "С„РІС„РІС„РІС„",
+        "clientPhone": "РІС„РІС„РІС„РІ",
         "clientTeacher": "2",
         "clientTime": "22:00",
         "clientWeekday": "tue",
-        "clientWeekday_rus": "Вторник"
+        "clientWeekday_rus": "Р’С‚РѕСЂРЅРёРє"
     },
     {
         "clientName": "adad",
@@ -53,7 +53,7 @@
         "clientTeacher": "2",
         "clientTime": "14:00",
         "clientWeekday": "tue",
-        "clientWeekday_rus": "Вторник"
+        "clientWeekday_rus": "Р’С‚РѕСЂРЅРёРє"
     },
     {
         "clientName": "13131",
@@ -61,7 +61,7 @@
         "clientTeacher": "2",
         "clientTime": "14:00",
         "clientWeekday": "tue",
-        "clientWeekday_rus": "Вторник"
+        "clientWeekday_rus": "Р’С‚РѕСЂРЅРёРє"
     },
     {
         "clientName": "d",
@@ -69,7 +69,7 @@
         "clientTeacher": "2",
         "clientTime": "14:00",
         "clientWeekday": "tue",
-        "clientWeekday_rus": "Вторник"
+        "clientWeekday_rus": "Р’С‚РѕСЂРЅРёРє"
     },
     {
         "clientName": "dadad",
@@ -77,7 +77,7 @@
         "clientTeacher": "1",
         "clientTime": "22:00",
         "clientWeekday": "tue",
-        "clientWeekday_rus": "Вторник"
+        "clientWeekday_rus": "Р’С‚РѕСЂРЅРёРє"
     },
     {
         "clientName": "",
@@ -85,7 +85,7 @@
         "clientTeacher": "1",
         "clientTime": "22:00",
         "clientWeekday": "tue",
-        "clientWeekday_rus": "Вторник"
+        "clientWeekday_rus": "Р’С‚РѕСЂРЅРёРє"
     },
     {
         "clientName": "",
@@ -93,7 +93,7 @@
         "clientTeacher": "1",
         "clientTime": "22:00",
         "clientWeekday": "tue",
-        "clientWeekday_rus": "Вторник"
+        "clientWeekday_rus": "Р’С‚РѕСЂРЅРёРє"
     },
     {
         "clientName": "",
@@ -101,23 +101,23 @@
         "clientTeacher": "1",
         "clientTime": "22:00",
         "clientWeekday": "tue",
-        "clientWeekday_rus": "Вторник"
+        "clientWeekday_rus": "Р’С‚РѕСЂРЅРёРє"
     },
     {
-        "clientName": "вфвф",
-        "clientPhone": "вфвф",
+        "clientName": "РІС„РІС„",
+        "clientPhone": "РІС„РІС„",
         "clientTeacher": "2",
         "clientTime": "8:00",
         "clientWeekday": "tue",
-        "clientWeekday_rus": "Вторник"
+        "clientWeekday_rus": "Р’С‚РѕСЂРЅРёРє"
     },
     {
-        "clientName": "вфвф",
-        "clientPhone": "вфвф",
+        "clientName": "РІС„РІС„",
+        "clientPhone": "РІС„РІС„",
         "clientTeacher": "0",
         "clientTime": "8:00",
         "clientWeekday": "thu",
-        "clientWeekday_rus": "Четверг"
+        "clientWeekday_rus": "Р§РµС‚РІРµСЂРі"
     },
     {
         "clientName": "dad",
@@ -125,7 +125,7 @@
         "clientTeacher": "11",
         "clientTime": "22:00",
         "clientWeekday": "mon",
-        "clientWeekday_rus": "Понедельник"
+        "clientWeekday_rus": "РџРѕРЅРµРґРµР»СЊРЅРёРє"
     },
     {
         "clientName": "ada",
@@ -133,6 +133,14 @@
         "clientTeacher": "8",
         "clientTime": "18:00",
         "clientWeekday": "tue",
-        "clientWeekday_rus": "Вторник"
+        "clientWeekday_rus": "Р’С‚РѕСЂРЅРёРє"
+    },
+    {
+        "clientName": "dad",
+        "clientPhone": "ada",
+        "clientTeacher": "10",
+        "clientTime": "18:00",
+        "clientWeekday": "mon",
+        "clientWeekday_rus": "РџРѕРЅРµРґРµР»СЊРЅРёРє"
     }
 ]
